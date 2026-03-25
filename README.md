@@ -11,6 +11,12 @@
       é um programa de computador que executa como um processo em segundo plano (background), sem interação direta com o usuário
 - o que significa prioridade na thread?
       é um valor atribuído a uma thread que define sua importância para o sistema operacional, determinando qual thread recebe mais tempo de CPU
+- o que starvation?
+        é uma thread morrer de fome
+- o que é condição de corrida?
+  é um erro em sistemas concorrentes onde o resultado final depende da ordem imprevisível de threads
+- qual a diferença entre escalonador cooperativo e preemptivo?
+        
 - Diferença entre paralelismo e concorrencia  (concorrencia é usada no dia-a-dia)
 - O que é Sleep?
 - Qualquer objeto no java pode ser usado pra fazer synchronized
