@@ -1,6 +1,16 @@
 # Tadss
 
 - O que é MUTEX?
+- O que é um processo?
+      Um programa em execução
+- o que é Thread?
+      Um fluxo de execução dentro do processo
+- O que é Stack?
+        Área de memória da Thread (variaveis locais e pilha de chamada de funções)
+- o que é um processo ou thread daemon?
+      é um programa de computador que executa como um processo em segundo plano (background), sem interação direta com o usuário
+- o que significa prioridade na thread?
+      é um valor atribuído a uma thread que define sua importância para o sistema operacional, determinando qual thread recebe mais tempo de CPU
 - Diferença entre paralelismo e concorrencia  (concorrencia é usada no dia-a-dia)
 - O que é Sleep?
 - Qualquer objeto no java pode ser usado pra fazer synchronized
